@@ -1,0 +1,43 @@
+.body {
+    margin: 0;
+}
+
+.top_container{
+    padding: 0;
+    background-color: #cfc0c0;
+    padding: 15px 15px;
+}
+
+.top_container img{
+    border: 2px solid #505050;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+#title, .subtitle, .post_title {
+    color: #505050;
+}
+
+.post {
+    padding: 10px;
+    margin: 10px;
+    border: 3px solid #505050;
+    border-radius: 5px;
+}
+
+.post_title {
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.post_img {
+    margin-bottom: 15px;
+}
+
+.post_content{
+    margin: 0;
+    margin-bottom: 15px;
+}
